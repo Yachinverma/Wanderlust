@@ -141,4 +141,13 @@ body {
   .alert-dismissible {
     width: 300px !important;
 }
+#reviews{
+    display: flex !important;
+    flex-wrap: wrap !important;
+  
+}
+.review-card{
+    width: 85% !important;
+    padding: 20px !important;
+}
 }
